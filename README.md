@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+AI+and+Data+Science;Building+Projects+Everyday;Future+Data+Scientist;Tech+Enthusiast&center=true&width=500&height=50">
 </p>
 
-<img align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
+<img align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="240"/>
 
 🎓 AI & Data Science student on a caffeine-powered coding journey  
 
@@ -70,4 +70,4 @@ basically vibing with Python and numbers.
 
 ---
 
-<img src="https://tenor.com/view/snow-cat-cozy-pixel-art-gif-15999694.gif" width="100%"/>
+<img src="https://tenor.com/view/snow-cat-cozy-pixel-art-gif-15999694.gif" width="70%"/>
