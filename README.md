@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Things I code with
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql)
@@ -27,18 +27,6 @@
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-
----
-
-### 📈 GitHub Stats
-
-![Bhvya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhvyaCodes&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BhvyaCodes&theme=tokyonight)
 
 ---
 
