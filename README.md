@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+AI+and+Data+Science;Building+Projects+Everyday;Future+Data+Scientist;Tech+Enthusiast&center=true&width=500&height=50">
 </p>
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180"/>
+<img align="right" src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)" width="240"/>
 
 🎓 AI & Data Science student on a caffeine-powered coding journey  
 
