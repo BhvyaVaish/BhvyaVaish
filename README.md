@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+AI+and+Data+Science;Building+Projects+Everyday;Future+Data+Scientist;Tech+Enthusiast&center=true&width=500&height=50">
 </p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180"/>
 
 🎓 AI & Data Science student on a caffeine-powered coding journey  
 
@@ -22,10 +22,11 @@ basically vibing with Python and numbers.
 
 ---
 
-## 🧩 Tech Stack (hexagon vibe)
+## 🛠️ Things I Use & Love
+
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,html,css,git,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,html,css,git,vscode&perline=4"/>
 </p>
 
 ---
