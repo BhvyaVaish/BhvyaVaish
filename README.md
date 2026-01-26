@@ -50,8 +50,6 @@ basically vibing with Python and numbers.
 
 <!-- SNAKE WILL APPEAR HERE -->
 
-![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
 
 ---
 
