@@ -23,6 +23,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
@@ -36,7 +38,7 @@
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BhvyaCodes&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=BhvyaCodes&theme=tokyonight)
 
 ---
 
