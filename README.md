@@ -70,5 +70,6 @@ basically vibing with Python and numbers.
 
 ---
 
-<img src="https://media.tenor.com/4z4n0vV4HSoAAAAC/snow-cat-cozy-pixel-art.gif" width="100%" height="160"/>
+<img src="https://media.tenor.com/4z4n0vV4HSoAAAAC/snow-cat-cozy-pixel-art.gif" width="100%" style="max-height:160px; object-fit:cover;" />
+
 
