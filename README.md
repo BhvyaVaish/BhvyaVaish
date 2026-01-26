@@ -70,4 +70,5 @@ basically vibing with Python and numbers.
 
 ---
 
-<img src="https://tenor.com/view/snow-cat-cozy-pixel-art-gif-15999694.gif" width="70%"/>
+<img src="https://media.tenor.com/4z4n0vV4HSoAAAAC/snow-cat-cozy-pixel-art.gif" width="100%" height="160"/>
+
