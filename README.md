@@ -49,6 +49,7 @@ basically vibing with Python and numbers.
 ## 🐍 Contribution Snake
 
 <!-- SNAKE WILL APPEAR HERE -->
+![snake animation](https://raw.githubusercontent.com/BhvyaCodes/BhvyaCodes/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
