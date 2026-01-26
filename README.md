@@ -25,7 +25,7 @@ basically vibing with Python and numbers.
 ## 🛠️ Things I Use & Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,html,css,git,vscode&perline=8&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,vscode&perline=8&theme=dark"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@ basically vibing with Python and numbers.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Commit Crawler
 
 <!-- SNAKE WILL APPEAR HERE -->
 ![snake animation](https://raw.githubusercontent.com/BhvyaCodes/BhvyaCodes/output/github-contribution-grid-snake-dark.svg)
