@@ -1,46 +1,73 @@
-<h1 align="center">Hey 👋 I'm Bhvya Vaish</h1>
-<h3 align="center">AI & Data Science Student | Future Data Scientist 🚀</h3>
+<h1 align="center">
+  Hi, I'm Bhvya 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+AI+and+Data+Science;Building+Projects+Everyday;Future+Data+Scientist;Tech+Enthusiast&center=true&width=500&height=50">
 </p>
 
----
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 
-### 🙋‍♂️ About Me
+🎓 AI & Data Science student on a caffeine-powered coding journey  
 
-- 🎓 BTech Student in AI & Data Science  
-- 📊 Aspiring Data Scientist / Data Analyst  
-- 💻 Learning Web Development & Machine Learning  
-- 🏆 Participating in Hackathons and Projects  
-- 🚀 Always curious about new tech  
+⚽ football > everything  
+🎧 music on loop while coding  
+☕ coffee = therapy  
+🌙 late night coding clutch moments  
+📊 turning data into insights  
+🔥 hackathons, rush hours & learning chaos  
 
----
-
-### 🛠️ Things I code with
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql)
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
-![VSCode](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+basically vibing with Python and numbers.
 
 ---
 
-### 💻 Fun Coding Vibes
+## 🧩 Tech Stack (hexagon vibe)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
----
-
-### 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/bhvya-vaish/  
-- 🐙 GitHub: https://github.com/BhvyaCodes  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,html,css,git,vscode&theme=dark"/>
+</p>
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhvyaCodes&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BhvyaCodes&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (auto moving)
+
+<!-- SNAKE WILL APPEAR HERE -->
+
+![snake animation](https://github.com/BhvyaCodes/BhvyaCodes/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhvya-vaish/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/BhvyaCodes">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:bhvya.vaish@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<img src="https://tenor.com/view/snow-cat-cozy-pixel-art-gif-15999694.gif" width="100%"/>
