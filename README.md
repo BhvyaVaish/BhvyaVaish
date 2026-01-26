@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+AI+and+Data+Science;Building+Projects+Everyday;Future+Data+Scientist;Tech+Enthusiast&center=true&width=500&height=50">
 </p>
 
-<img align="right" src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](https://giphy.com/gifs/PizzaNinjas-programmer-pizza-ninjas-pizzaninjas-78XCFBGOlS6keY1Bil)" width="180"/>
+<img align="right" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="200"/>
 
 🎓 AI & Data Science student on a caffeine-powered coding journey  
 
@@ -24,9 +24,8 @@ basically vibing with Python and numbers.
 
 ## 🛠️ Things I Use & Love
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,html,css,git,vscode&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,html,css,git,vscode&perline=8&theme=dark"/>
 </p>
 
 ---
@@ -47,11 +46,12 @@ basically vibing with Python and numbers.
 
 ---
 
-## 🐍 Contribution Snake (auto moving)
+## 🐍 Contribution Snake
 
 <!-- SNAKE WILL APPEAR HERE -->
 
-![snake animation](https://github.com/BhvyaCodes/BhvyaCodes/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
