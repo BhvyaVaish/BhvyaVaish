@@ -60,7 +60,7 @@ basically vibing with Python and numbers.
   <a href="https://www.linkedin.com/in/bhvya-vaish/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/BhvyaCodes">
+  <a href="https://github.com/BhvyaVaish">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
   </a>
   <a href="mailto:bhvya.vaish@gmail.com">
