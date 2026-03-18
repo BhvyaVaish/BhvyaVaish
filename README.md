@@ -33,7 +33,7 @@ basically vibing with Python and numbers.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhvyaCodes&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BhvyaVaish&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@ basically vibing with Python and numbers.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BhvyaCodes&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=BhvyaVaish&theme=tokyonight"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@ basically vibing with Python and numbers.
 ## 🐍 Commit Crawler
 
 <!-- SNAKE WILL APPEAR HERE -->
-![snake animation](https://raw.githubusercontent.com/BhvyaCodes/BhvyaCodes/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/BhvyaVaish/BhvyaVaish/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
