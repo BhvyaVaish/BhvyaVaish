@@ -16,7 +16,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: BhvyaCodes
+          github_user_name: BhvyaVaish
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
