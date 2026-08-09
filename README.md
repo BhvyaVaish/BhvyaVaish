@@ -25,7 +25,25 @@ basically vibing with Python and numbers.
 ## 🛠️ Things I Use & Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,vscode&perline=8&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,vscode,github,linux,bash&perline=9&theme=dark"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/BhvyaVaish/ProfitPilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhvyaVaish&repo=ProfitPilot&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/BhvyaVaish/Voter-Pulse-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhvyaVaish&repo=Voter-Pulse-AI&theme=tokyonight" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/BhvyaVaish/EduGrid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhvyaVaish&repo=EduGrid&theme=tokyonight" />
+  </a>
 </p>
 
 ---
@@ -34,6 +52,7 @@ basically vibing with Python and numbers.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhvyaVaish&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhvyaVaish&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
