@@ -11,12 +11,13 @@
 
 🎓 AI & Data Science student on a caffeine-powered coding journey  
 
-⚽ football > everything  
+🔥 hackathons, rush hours & learning chaos
 🎧 music on loop while coding  
 ☕ coffee = therapy  
 🌙 late night coding clutch moments  
 📊 turning data into insights  
-🔥 hackathons, rush hours & learning chaos  
+⚽ football > everything  
+
 
 basically vibing with Python and numbers.
 
