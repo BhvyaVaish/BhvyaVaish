@@ -12,7 +12,6 @@
 🎓 AI & Data Science student on a caffeine-powered coding journey  
 
 🔥 hackathons, rush hours & learning chaos
-
 🎧 music on loop while coding  
 ☕ coffee = therapy  
 🌙 late night coding clutch moments  
